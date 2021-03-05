@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Maharashtra" },
+  { "id": 2, "name": "Andhra Pradesh" },
+  { "id": 3, "name": "Madhya Pradesh" },
+  { "id": 4, "name": "Uttarakhand" },
+  { "id": 5, "name": "Tamil Nadu" },
+  { "id": 6, "name": "Punjab" },
+  { "id": 7, "name": "Manipur" },
+  { "id": 8, "name": "Haryana" },
+  { "id": 9, "name": "Delhi" },
+  { "id": 10, "name": "Himachal Pradesh" },
+  { "id": 11, "name": "Jharkhand" },
+  { "id": 12, "name": "Karnataka" },
+  { "id": 13, "name": "Telangana" },
+  { "id": 14, "name": "Uttar Pradesh" },
+  { "id": 15, "name": "West Bengal" }
+]

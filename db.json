@@ -1,0 +1,526 @@
+{
+  "my_students": [
+    {
+      "id": 1,
+      "student_id": "roh123",
+      "fullname": "Rohit Kasture",
+      "number": "8433507696",
+      "password": "11111",
+      "type": "student"
+    },
+    {
+      "id": 2,
+      "student_id": "raj228",
+      "fullname": "rajeev Singh",
+      "number": "8433507696",
+      "password": "22222",
+      "type": "student"
+    }
+  ],
+  "student_data": [
+    {
+      "stdId": "raj228",
+      "refId": 37659,
+      "StudentName": "rajeev Singh",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "88",
+      "twelthPercentage": "89",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 1
+    },
+    {
+      "stdId": "raj228",
+      "refId": 53665,
+      "StudentName": "rajeev Singh",
+      "branch": "Information Technology",
+      "Contact": "8433507696",
+      "tenthPercentage": "89",
+      "twelthPercentage": "78",
+      "collegeName": "National Institute of Technology Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "id": 2
+    },
+    {
+      "stdId": "raj228",
+      "refId": 48547,
+      "StudentName": "rajeev Singh",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "78",
+      "twelthPercentage": "78",
+      "collegeName": "Indian Institute of Technology Bombay",
+      "state": "Maharashtra",
+      "id": 3
+    },
+    {
+      "stdId": "roh123",
+      "refId": 73653,
+      "StudentName": "Rohit Kasture",
+      "branch": "Computer Science",
+      "Contact": "8433507696",
+      "tenthPercentage": "78",
+      "twelthPercentage": "78",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 4
+    },
+    {
+      "stdId": "raj228",
+      "refId": 62301,
+      "StudentName": "rajeev Singh",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "",
+      "twelthPercentage": "",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 5
+    },
+    {
+      "stdId": "raj228",
+      "refId": 84636,
+      "StudentName": "rajeev Singh",
+      "branch": "Aerospace/aeronautical",
+      "Contact": "8433507696",
+      "tenthPercentage": "78",
+      "twelthPercentage": "78",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 6
+    },
+    {
+      "stdId": "raj228",
+      "refId": 45549,
+      "StudentName": "rajeev Singh",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "80",
+      "twelthPercentage": "80",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 7
+    },
+    {
+      "stdId": "raj228",
+      "refId": 67763,
+      "StudentName": "rajeev Singh",
+      "branch": "Aerospace/aeronautical",
+      "Contact": "8433507696",
+      "tenthPercentage": "85",
+      "twelthPercentage": "91",
+      "collegeName": "Indian Institute of Technology Hyderabad",
+      "state": "Telangana",
+      "id": 8
+    },
+    {
+      "stdId": "raj228",
+      "refId": 26490,
+      "StudentName": "rajeev Singh",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "89",
+      "twelthPercentage": "98",
+      "collegeName": "Indian Institute of Technology Madras",
+      "state": "Tamil Nadu",
+      "id": 9
+    }
+  ],
+  "my_states": [
+    {
+      "id": 1,
+      "name": "Maharashtra"
+    },
+    {
+      "id": 2,
+      "name": "Andhra Pradesh"
+    },
+    {
+      "id": 3,
+      "name": "Madhya Pradesh"
+    },
+    {
+      "id": 4,
+      "name": "Delhi"
+    },
+    {
+      "id": 5,
+      "name": "Tamil Nadu"
+    },
+    {
+      "id": 6,
+      "name": "Delhi"
+    },
+    {
+      "id": 7,
+      "name": "Jharkhand"
+    },
+    {
+      "id": 8,
+      "name": "Assam"
+    },
+    {
+      "id": 9,
+      "name": "Telangana"
+    },
+    {
+      "id": 10,
+      "name": "Uttar Pradesh"
+    },
+    {
+      "id": 11,
+      "name": "West Bengal"
+    },
+    {
+      "id": 12,
+      "name": "Uttarakhand"
+    },
+    {
+      "id": 13,
+      "name": "Orissa"
+    },
+    {
+      "id": 14,
+      "name": "Karnataka"
+    }
+  ],
+  "my_colleges": [
+    {
+      "id": 1,
+      "name": "Indian Institute of Technology Madras",
+      "src": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/10/w900X450/IITMADRAS.jpg",
+      "state": "Tamil Nadu",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Indian Institute of Technology Bombay",
+      "src": "https://english.cdn.zeenews.com/sites/default/files/2020/06/25/868624-iit-use.png",
+      "state": "Maharashtra",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Indian Institute of Technology Delhi",
+      "src": "https://img.etimg.com/thumb/msid-73880846,width-1015,height-761,imgsize-1248409,resizemode-8,quality-100/prime/technology-and-startups/the-iit-delhi-connection-of-indias-unicorns-and-what-it-means-for-innovation.jpg",
+      "state": "Delhi",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Indian Institute of Technology Kharagpur",
+      "src": "http://images.edexlive.com/uploads/user/imagelibrary/2020/9/5/original/IIT-KGP.jpg",
+      "state": "West Bengal",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Indian Institute of Technology Kanpur",
+      "src": "https://www.jagranimages.com/images/newimg/22052020/22_05_2020-kanpur_iit_20295434.jpg",
+      "state": "Uttar Pradesh",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Indian Institute of Technology Roorkee",
+      "src": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/2/w900X450/121004011141_iitroorkee.jpg",
+      "state": "Uttarakhand",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Indian Institute of Technology Guwahati",
+      "src": "https://img.etimg.com/thumb/msid-78814773,width-1200,height-900/industry/services/education/iit-guwahati-students-selected-for-the-prime-ministers-research-fellows-scheme.jpg",
+      "state": "Assam",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Anna University",
+      "src": "https://images.indianexpress.com/2019/01/anna-university-1200.jpg",
+      "state": "Tamil Nadu",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Indian Institute of Technology Hyderabad",
+      "src": "https://telanganatoday.com/wp-content/uploads/2019/12/IIT-Hyderabad-sees-surge-in.jpg",
+      "state": "Telangana",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Institute of Chemical Technology",
+      "src": "data:image/jpeg;base64,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",
+      "state": "Maharashtra",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "National Institute of Technology Tiruchirappalli",
+      "src": "https://images.shiksha.com/mediadata/images/1578909697phpgVXpri.jpeg",
+      "state": "Tamil Nadu",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Jadavpur University",
+      "src": "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/892/2018/10/23/Campus%20View%20of%20Jadavpur%20University%20Kolkata_Campus-View.jpg",
+      "state": "West Bengal",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+      "src": "https://assets.telegraphindia.com/telegraph/2020/Aug/1596469735_03dhan-online-classes-at-iit-ism-dhanbad-1.jpg",
+      "state": "Jharkhand",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Indian Institute of Technology Indore",
+      "src": "https://www.campusvarta.com/wp-content/uploads/2020/01/IIT-Indore.jpg",
+      "state": "Madhya Pradesh",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "National Institute of Technology Rourkela",
+      "src": "https://img.collegepravesh.com/2013/07/NIT-ROURKELA.jpg",
+      "state": "Orissa",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Vellore Institute of Technology",
+      "src": "https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/21/2018/9/29/Campus%20View%20of%20Vellore%20Institute%20of%20Technology%20Vellore_Campus-View.jpg",
+      "state": "Tamil Nadu",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Birla Institute of Technology & Science",
+      "src": "https://images.shiksha.com/mediadata/images/articles/1584360281phpFGx1iJ.jpeg",
+      "state": "Rajasthan",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+      "src": "http://images.edexlive.com/uploads/user/imagelibrary/2020/11/11/original/indian-institute-of-technology-bhu-iit-bhu-varanasi.jpg",
+      "state": "Uttar Pradesh",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "National Institute of Technology Surathkal",
+      "src": "https://images.shiksha.com/mediadata/images/1550643698phpAmIN2k.png",
+      "state": "Karnataka",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "National Institute of Technology Warangal",
+      "src": "https://storage.googleapis.com/ezap-prod/colleges/1220/nit_warangal.jpg",
+      "state": "Telangana",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Amity University",
+      "src": "https://www.edufever.com/wp-content/uploads/2017/07/5-Reason-Why-You-Must-Choose-Amity-over-any-other-Private-Institute.jpg",
+      "state": "Uttar Pradesh",
+      "description": "",
+      "departments": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Computer Science",
+        "Aerospace/aeronautical",
+        "Chemical engineering",
+        "Electrical",
+        "Electronics"
+      ]
+    }
+  ]
+}

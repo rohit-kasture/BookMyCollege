@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Indian Institute of Technology Madras" },
+  { "id": 2, "name": "Indian Institute of Technology Bombay" },
+  { "id": 3, "name": "Indian Institute of Technology Delhi" },
+  { "id": 4, "name": "Indian Institute of Technology Kharagpur" },
+  { "id": 5, "name": "Indian Institute of Technology Kanpur" },
+  { "id": 6, "name": "Indian Institute of Technology Roorkee" },
+  { "id": 7, "name": "Indian Institute of Technology Guwahati" },
+  { "id": 8, "name": "Anna University" },
+  { "id": 9, "name": "Indian Institute of Technology Hyderabad" },
+  { "id": 10, "name": "Institute of Chemical Technology" },
+  { "id": 11, "name": "National Institute of Technology Tiruchirappalli" },
+  { "id": 12, "name": "Jadavpur University" },
+  { "id": 13, "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad" },
+  { "id": 14, "name": "Indian Institute of Technology Indore" },
+  { "id": 15, "name": "National Institute of Technology Rourkela" },
+  { "id": 16, "name": "Vellore Institute of Technology" },
+  { "id": 17, "name": "Birla Institute of Technology & Science" },
+  { "id": 18, "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi" },
+  { "id": 19, "name": "National Institute of Technology Surathkal" },
+  { "id": 20, "name": "National Institute of Technology Warangal" },
+  { "id": 21, "name": "Amity University" }
+]
