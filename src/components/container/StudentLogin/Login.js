@@ -42,6 +42,7 @@ class Login extends React.Component {
     }
 
     render() {
+        console.log(process.env)
         return (
             <div style={{ height: '200px', width: '700px', alignContent: 'center', margin: '0 auto' }}>
                 <form

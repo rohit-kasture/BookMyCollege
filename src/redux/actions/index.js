@@ -1,6 +1,7 @@
-import api from '../../api/api';
+import { getData } from '../../api/api';
 import { COLLEGE_FORM_DATA, PUSH_STUDENT_FORM_SUCCESS, REGISTER_USER_OR_ADMIN, TOGGLE_LOGIN_LOGOUT, USER_LOGIN, FETCH_STATE, FETCH_STATE_SUCCESS, FETCH_COLLEGE, FETCH_COLLEGE_SUCCESS } from './types'
 import history from '../../history/history'
+
 
 export const toggleIsStudent = (isStudentflag) => {
   return { type: REGISTER_USER_OR_ADMIN, payload: isDoctorflag }
@@ -22,7 +23,7 @@ const capitalizeFirstLetter = (string) => {
 }
 
 export const loginUser = (user) => async dispatch => {
-  let users = await api.get('/my_students');
+  let users = await getData('my_students');
   users?.data?.map((usr) => {
     if ((usr.number) === user['number'] && usr.password === user['password']) {
       let firstName = usr.fullname.split(" ")[0];

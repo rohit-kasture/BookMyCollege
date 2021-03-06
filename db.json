@@ -125,6 +125,18 @@
       "collegeName": "Indian Institute of Technology Madras",
       "state": "Tamil Nadu",
       "id": 9
+    },
+    {
+      "stdId": "roh123",
+      "refId": 44363,
+      "StudentName": "Rohit Kasture",
+      "branch": "Mechanical engineering",
+      "Contact": "8433507696",
+      "tenthPercentage": "88",
+      "twelthPercentage": "89",
+      "collegeName": "Indian Institute of Technology Kharagpur",
+      "state": "West Bengal",
+      "id": 10
     }
   ],
   "my_states": [

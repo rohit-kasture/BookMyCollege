@@ -6,10 +6,10 @@ const Header = (props) => {
     const state = useSelector(state => state.userData);
 
     return (
-        <div className="ui blue inverted segment">
+        <div className="ui blue inverted segment headerComponent">
             <div className="ui green inverted pointing menu">
 
-                <img src={icon} alt="" style={{ height: '50px', width: '104px' }} ></img>
+                <img className="logoIMG" src={icon} alt="" style={{ height: '50px', width: '104px' }} ></img>
                 {!state.toggleLoginLogout &&
                   <>
                   <Link to="/home" id="student" className="item">Home</Link>

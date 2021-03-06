@@ -1,8 +1,13 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import { shallow } from 'enzyme';
+import Header from './components/container/Header';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+describe('Header Component', () => {
+  it('It should render true', () => {
+    const component = shallow(<Header />);
+    const wrapper = component.find('.logoIMG');
+    expect(wrapper.length.toBe(1))
+  });
+
 });
+
