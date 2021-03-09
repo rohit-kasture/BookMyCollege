@@ -33,3 +33,7 @@ spread operator
 Lodash library
 
 SAGA
+
+Formik
+
+Lazy loading of React components
