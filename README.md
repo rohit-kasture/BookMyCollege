@@ -1,5 +1,6 @@
 NOTE:Run below command before starting the APP, use the json server as the database to see the data -
- json-server --watch db.json
+     
+        json-server --watch db.json
 
 FEATURES  USED 
 ===============
