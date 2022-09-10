@@ -6,7 +6,7 @@
       "fullname": "_____ _______",
       "number": "0987654321",
       "password": "I0I",
-      "type": "Work"
+      "type": "Personal"
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "fullname": "_____ _______",
       "number": "0987654321",
       "password": "I2I",
-      "type": "Personal"
+      "type": "Business"
      },
      {
       "id": 3,
@@ -30,7 +30,7 @@
       "fullname": "_____ _______",
       "number": "0987654321",
       "password": "I3I",
-      "type": "Business"
+      "type": "Group"
      },
      {
       "id": 4,
@@ -38,7 +38,7 @@
       "fullname": "_____ _______",
       "number": "0987654321",
       "password": "I4I",
-      "type": "Group"
+      "type": "Groups"
      },
      {
       "id": 5,
@@ -46,7 +46,7 @@
       "fullname": "_____ _______",
       "number": "0987654321",
       "password": "I5I",
-      "type": "Groups"
+      "type": "Work"
      }
   ],
   "student_data": [   
