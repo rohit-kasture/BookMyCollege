@@ -1,142 +1,186 @@
 {
   "my_students": [
     {
-      "id": 1,
-      "student_id": "1234",
-      "fullname": "2526",
+      "id": 0,
+      "student_id": "II0",
+      "fullname": "_____ _______",
       "number": "0987654321",
-      "password": "0000",
+      "password": "I0I",
       "type": "Work"
     },
     {
-      "id": 2,
-      "student_id": "1234",
-      "fullname": "2526",
+      "id": 1,
+      "student_id": "II1",
+      "fullname": "_____ _______",
       "number": "0987654321",
-      "password": "1111",
+      "password": "I1I",
       "type": "Student"
-    }
-  ],
-  "student_data": [
+    },
     {
-      "stdId": "1111",
-      "refId": 1111,
-      "StudentName": "xxxxxx XXXXXXX",
-      "branch": "CSE",
+      "id": 2,
+      "student_id": "II2",
+      "fullname": "_____ _______",
+      "number": "0987654321",
+      "password": "I2I",
+      "type": "Personal"
+     },
+     {
+      "id": 3,
+      "student_id": "II3",
+      "fullname": "_____ _______",
+      "number": "0987654321",
+      "password": "I3I",
+      "type": "Business"
+     },
+     {
+      "id": 4,
+      "student_id": "II4",
+      "fullname": "_____ _______,
+      "number": "0987654321",
+      "password": "I4I",
+      "type": "Group"
+     },
+     {
+      "id": 5,
+      "student_id": "II5",
+      "fullname": "_____ _______",
+      "number": "0987654321",
+      "password": "I5I",
+      "type": "Groups"
+     }
+  ],
+  "student_data": [   
+    {
+      "stdId": "I0",
+      "refId": I00,
+      "StudentName": "_____ _______",
+      "branch": "Computer science and Engineering",
       "Contact": "0987654321",
       "tenthPercentage": "83",
       "twelthPercentage": "78",
+      "collegeName": "Indian Institute of Science",
+      "state": "Karnataka",
+      "id": 560012
+    },
+    {
+      "stdId": "I1",
+      "refId": I01,
+      "StudentName": "______ _____ ______",
+      "branch": "CSE",
+      "Contact": "0987654321",
+      "tenthPercentage": "98",
+      "twelthPercentage": "99",
       "collegeName": "Indian Institute of Technology Khargpur",
       "state": "Tamil Nadu",
-      "id": 1
+      "id": 721301
     },
     {
-      "stdId": "2222",
-      "refId": 2222,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I2",
+      "refId": I02,
+      "StudentName": "_____ _______",
       "branch": "Information Technology",
       "Contact": "0987654321",
-      "tenthPercentage": "89",
-      "twelthPercentage": "78",
+      "tenthPercentage": "99",
+      "twelthPercentage": "99",
       "collegeName": "National Institute of Technology Tiruchirappalli",
       "state": "Tamil Nadu",
-      "id": 2
+      "id": 620001
     },
     {
-      "stdId": "3333",
-      "refId": 3333,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I3",
+      "refId": I03,
+      "StudentName": "_____ _______",
       "branch": "Computer Science And Engineering",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
+      "tenthPercentage": "78",
+      "twelthPercentage": "83",
       "collegeName": "Indian Institute of Technology Bombay",
       "state": "Maharashtra",
-      "id": 3
+      "id": 400001
     },
     {
-      "stdId": "4444",
-      "refId": 4444,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I4",
+      "refId": I04,
+      "StudentName": "_____ _______,
       "branch": "Computer Science",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
+      "tenthPercentage": "78",
+      "twelthPercentage": "83",
       "collegeName": "Indian Institute of Technology Madras",
       "state": "Tamil Nadu",
-      "id": 4
+      "id": 600001
     },
     {
-      "stdId": "5555",
-      "refId": 5555,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I5",
+      "refId": I05,
+      "StudentName": "_____ ____",
       "branch": "Information Technology",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
-      "collegeName": "Indian Institute of Technology Bombay",
-      "state": "Maharashtra",
-      "id": 5
+      "tenthPercentage": "96.69",
+      "twelthPercentage": "96.69",
+      "collegeName": "Indian Institute of Technology Kanpur",
+      "state": "Uttar Pradesh",
+      "id": 208001
     },
     {
-      "stdId": "6666",
-      "refId": 6666,
-      "StudentName": "******** *******",
-      "branch": "Aerospace/aeronautical",
+      "stdId": "I6",
+      "refId": I06,
+      "StudentName": "***** ******",
+      "branch": "Data Science And Analytics",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
+      "tenthPercentage": "96.69",
+      "twelthPercentage": "96.69",
       "collegeName": "Indian Institute of Technology Delhi",
       "state": "New Delhi, Delhi",
-      "id": 6
+      "id": 110001
     },
     {
-      "stdId": "7777",
-      "refId": 7777,
-      "StudentName": "xxxxxx XXXXXXX",
-      "branch": "CSEIT",
+      "stdId": "I7",
+      "refId": I07,
+      "StudentName": "_____ _______",
+      "branch": "CSE",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
-      "collegeName": "Indian Institute of Technology Madras",
-      "state": "Tamil Nadu",
-      "id": 7
+      "tenthPercentage": "78",
+      "twelthPercentage": "83",
+      "collegeName": "Indian Institute of Technology Indore",
+      "state": "Madhya Pradesh",
+      "id": 451010
     },
     {
-      "stdId": "8888",
-      "refId": 8888,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I8",
+      "refId": I08,
+      "StudentName": "_____ _______",
       "branch": "Aerospace/aeronautical",
       "Contact": "0987654321",
-      "tenthPercentage": "100",
-      "twelthPercentage": "100",
+      "tenthPercentage": "69.96",
+      "twelthPercentage": "68.69",
       "collegeName": "Indian Institute of Technology Hyderabad",
       "state": "Telangana",
       "id": 8
     },
     {
-      "stdId": "9999",
-      "refId": 9999,
-      "StudentName": "xxxxxx XXXXXXX",
-      "branch": "CSEIT",
+      "stdId": "I9",
+      "refId": I09,
+      "StudentName": "________ _____ ____",
+      "branch": "Electronics and Telecommunications Technology And Data Analytics",
       "Contact": "0987654321",
       "tenthPercentage": "100",
       "twelthPercentage": "100",
-      "collegeName": "Indian Institute of Technology Madras",
-      "state": "Tamil Nadu",
-      "id": 9
+      "collegeName": "Indian Institute of Technology Roorkee",
+      "state": "Uttarakhand",
+      "id": 247667
     },
     {
-      "stdId": "0000",
-      "refId": 0000,
-      "StudentName": "xxxxxx XXXXXXX",
+      "stdId": "I10",
+      "refId": I010,
+      "StudentName": "________ _____ ____",
       "branch": "CSEIT",
       "Contact": "0987654321",
       "tenthPercentage": "100",
       "twelthPercentage": "100",
-      "collegeName": "Indian Institute of Technology Kharagpur",
-      "state": "West Bengal",
-      "id": 10
+      "collegeName": "Indian Institute of Technology Guwahati",
+      "state": "Assam",
+      "id": 781039
     }
   ],
   "my_states": [
@@ -162,15 +206,15 @@
     },
     {
       "id": 6,
-      "name": "Delhi"
+      "name": "Uttar Pradesh"
     },
     {
       "id": 7,
-      "name": "Jharkhand"
+      "name": "Assam"
     },
     {
       "id": 8,
-      "name": "Assam"
+      "name": "Uttarakhand"
     },
     {
       "id": 9,
@@ -178,7 +222,7 @@
     },
     {
       "id": 10,
-      "name": "Uttar Pradesh"
+      "name": "Telangana"
     },
     {
       "id": 11,
