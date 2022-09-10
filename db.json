@@ -52,7 +52,7 @@
   "student_data": [   
     {
       "stdId": "I0",
-      "refId": I00,
+      "refId": "I00",
       "StudentName": "_____ _______",
       "branch": "Computer science and Engineering",
       "Contact": "0987654321",
@@ -64,7 +64,7 @@
     },
     {
       "stdId": "I1",
-      "refId": I01,
+      "refId": "I01",
       "StudentName": "______ _____ ______",
       "branch": "CSE",
       "Contact": "0987654321",
@@ -76,7 +76,7 @@
     },
     {
       "stdId": "I2",
-      "refId": I02,
+      "refId": "I02",
       "StudentName": "_____ _______",
       "branch": "Information Technology",
       "Contact": "0987654321",
@@ -88,7 +88,7 @@
     },
     {
       "stdId": "I3",
-      "refId": I03,
+      "refId": "I03",
       "StudentName": "_____ _______",
       "branch": "Computer Science And Engineering",
       "Contact": "0987654321",
@@ -100,8 +100,8 @@
     },
     {
       "stdId": "I4",
-      "refId": I04,
-      "StudentName": "_____ _______,
+      "refId": "I04",
+      "StudentName": "_____ _______",
       "branch": "Computer Science",
       "Contact": "0987654321",
       "tenthPercentage": "78",
@@ -112,7 +112,7 @@
     },
     {
       "stdId": "I5",
-      "refId": I05,
+      "refId": "I05",
       "StudentName": "_____ ____",
       "branch": "Information Technology",
       "Contact": "0987654321",
@@ -124,8 +124,8 @@
     },
     {
       "stdId": "I6",
-      "refId": I06,
-      "StudentName": "***** ******",
+      "refId": "I06",
+      "StudentName": "_____ ______",
       "branch": "Data Science And Analytics",
       "Contact": "0987654321",
       "tenthPercentage": "96.69",
@@ -136,7 +136,7 @@
     },
     {
       "stdId": "I7",
-      "refId": I07,
+      "refId": "I07",
       "StudentName": "_____ _______",
       "branch": "CSE",
       "Contact": "0987654321",
@@ -148,7 +148,7 @@
     },
     {
       "stdId": "I8",
-      "refId": I08,
+      "refId": "I08",
       "StudentName": "_____ _______",
       "branch": "Aerospace/aeronautical",
       "Contact": "0987654321",
@@ -160,7 +160,7 @@
     },
     {
       "stdId": "I9",
-      "refId": I09,
+      "refId": "I09",
       "StudentName": "________ _____ ____",
       "branch": "Electronics and Telecommunications Technology And Data Analytics",
       "Contact": "0987654321",
@@ -172,7 +172,7 @@
     },
     {
       "stdId": "I10",
-      "refId": I010,
+      "refId": "I010",
       "StudentName": "________ _____ ____",
       "branch": "CSEIT",
       "Contact": "0987654321",
