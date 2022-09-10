@@ -72,19 +72,19 @@
       "twelthPercentage": "99",
       "collegeName": "Indian Institute of Technology Khargpur",
       "state": "Tamil Nadu",
-      "id": 721301
+      "id": 721302
     },
     {
       "stdId": "I2",
       "refId": "I02",
       "StudentName": "_____ _______",
-      "branch": "Information Technology",
+      "branch": "CSE",
       "Contact": "0987654321",
-      "tenthPercentage": "99",
-      "twelthPercentage": "99",
-      "collegeName": "National Institute of Technology Tiruchirappalli",
-      "state": "Tamil Nadu",
-      "id": 620001
+      "tenthPercentage": "63.69",
+      "twelthPercentage": "63.69",
+      "collegeName": "Maulana Azad National Institute of Technology",
+      "state": "Madhya Pradesh",
+      "id": 462003
     },
     {
       "stdId": "I3",
@@ -96,19 +96,19 @@
       "twelthPercentage": "83",
       "collegeName": "Indian Institute of Technology Bombay",
       "state": "Maharashtra",
-      "id": 400001
+      "id": 400076
     },
     {
       "stdId": "I4",
       "refId": "I04",
       "StudentName": "_____ _______",
-      "branch": "Computer Science",
+      "branch": "Data Science And Data Analytics",
       "Contact": "0987654321",
       "tenthPercentage": "78",
       "twelthPercentage": "83",
       "collegeName": "Indian Institute of Technology Madras",
       "state": "Tamil Nadu",
-      "id": 600001
+      "id": 600036
     },
     {
       "stdId": "I5",
@@ -120,7 +120,7 @@
       "twelthPercentage": "96.69",
       "collegeName": "Indian Institute of Technology Kanpur",
       "state": "Uttar Pradesh",
-      "id": 208001
+      "id": 208016
     },
     {
       "stdId": "I6",
@@ -132,7 +132,7 @@
       "twelthPercentage": "96.69",
       "collegeName": "Indian Institute of Technology Delhi",
       "state": "New Delhi, Delhi",
-      "id": 110001
+      "id": 110016
     },
     {
       "stdId": "I7",
@@ -144,7 +144,7 @@
       "twelthPercentage": "83",
       "collegeName": "Indian Institute of Technology Indore",
       "state": "Madhya Pradesh",
-      "id": 451010
+      "id": 452020
     },
     {
       "stdId": "I8",
@@ -156,7 +156,7 @@
       "twelthPercentage": "68.69",
       "collegeName": "Indian Institute of Technology Hyderabad",
       "state": "Telangana",
-      "id": 500001
+      "id": 502284
     },
     {
       "stdId": "I9",
